@@ -1,13 +1,14 @@
-![Joachims's GitHub Banner](./banner.png)
-![Joachims's GitHub stats](https://github-readme-stats.vercel.app/api?username=joachr&show_icons=true&theme=radical&locale=en&layout=compact)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joachr&label=Profile%20views&color=0e75b6&style=flat" alt="joachr" /> </p>
+
+<h1>Hi, I'm Joachim Christensen!</h1>
 
 - 🌱 I’m currently learning: **Vue, Ionic, C#, Swift**
 
 - 📫 How to reach me: **joacchri@gmail.com**
 
 - ⚡ Fun fact: **I've played at the Slottsfjell music festival 2 times**
+
+![Joachims's GitHub stats](https://github-readme-stats.vercel.app/api?username=joachr&show_icons=true&theme=radical&locale=en&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
