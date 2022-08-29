@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joachr&label=Profile%20views&color=0e75b6&style=flat" alt="joachr" /> </p>
 
-- 🌱 I’m currently learning **Vue, Ionic, C#, Swift**
+- 🌱 I’m currently learning: **Vue, Ionic, C#, Swift**
 
-- 📫 How to reach me **joacchri@gmail.com**
+- 📫 How to reach me: **joacchri@gmail.com**
 
-- ⚡ Fun fact **I've played at the Slottsfjell music festival 2 times**
+- ⚡ Fun fact: **I've played at the Slottsfjell music festival 2 times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
