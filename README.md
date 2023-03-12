@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Joachim Christensen!</h1>
 
-- 🌱 I’m currently learning: **Vue, Ionic, C#, Swift**
+- 🌱 I’m currently learning: **Cypress, Typescript**
 
 - 📫 How to reach me: **joacchri@gmail.com**
 
