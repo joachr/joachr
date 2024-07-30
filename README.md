@@ -2,8 +2,6 @@
 
 <h1>Hi, I'm Joachim Christensen!</h1>
 
-- 🌱 I’m currently learning: **Cypress, Typescript**
-
 - 📫 How to reach me: **joacchri@gmail.com**
 
 - ⚡ Fun fact: **I've played at the Slottsfjell music festival 2 times**
